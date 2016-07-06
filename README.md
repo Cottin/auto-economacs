@@ -39,4 +39,4 @@ There is a second place in the script where you can customize the asset or debt 
 set assetOrDebtAccounts to {"1923 Kreditkortskonto", "1920 Affärskonto", "1930 Bank, checkräkningskonto", "2017 Egna insättningar"}
 ```
 
-**NOTE**: If you choose a template which uses an account which is not included in your current "account plan" in Economacs, things will not work. I.e. make sure only to add templates in the script using accounts that you have configured or add missing accounts to your plan in Economacs.
+**NOTE**: *If you choose a template which uses an account which is not included in your current "account plan" in Economacs, things will not work. I.e. make sure only to add templates in the script using accounts that you have configured or add missing accounts to your plan in Economacs.*
