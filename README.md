@@ -6,6 +6,7 @@ However, Economacs have always been missing a feature called "Konteringsmallar" 
 
 Not having this feature is a complete deal-breaker for me. But I realised that it could be built using a simple AppleScript. If you're unsure what this is, have a look at the video below to see the automatic magic that is "Konteringsmallar".
 
+![](https://github.com/Cottin/auto-economacs/blob/master/ae2.gif)
 
 
 # How to install?
